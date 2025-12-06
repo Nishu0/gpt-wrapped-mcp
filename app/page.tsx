@@ -3,7 +3,6 @@ import {
   HeroSection,
   FeaturesSection,
   SetupSection,
-  UploadSection,
   Footer,
 } from "./components";
 
